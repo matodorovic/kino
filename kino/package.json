@@ -19,7 +19,8 @@
         "webpack-cli": "^4.9.1"
     },
     "dependencies": {
-        "vscode": "^1.1.37",
+        "express": "^4.17.2",
+        "vscode": "^0.9.9",
         "webpack": "^5.65.0"
     }
 }
